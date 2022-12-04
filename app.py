@@ -33,3 +33,4 @@ st.write(address)
 
 if st.button("submit"):
     st.write('Adde to the database')
+    st.cache
