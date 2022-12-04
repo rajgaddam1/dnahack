@@ -4,6 +4,7 @@ from urllib.parse import urlparse
 #import psycopg2
 import os
 #import pandas as pd
+import snowflake.connector
 import warnings 
 warnings.filterwarnings("ignore")
 
